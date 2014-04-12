@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 38f1494a630e2bf4db1caea4d13e286f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ikHandle6
+    100002: //RootNode
+    100004: joint32
+    100006: nurbsCircle2
+    100008: ikHandle2
+    100010: polySurface40
+    100012: joint23
+    100014: joint16
+    100016: ikHandle3
+    100018: joint30 1
+    100020: joint30
+    100022: joint29
+    100024: joint15
+    100026: joint14
+    100028: joint27
+    100030: joint26
+    100032: ikHandle4
+    100034: joint31 1
+    100036: joint7
+    100038: joint6
+    100040: joint9
+    100042: joint4
+    100044: joint5
+    100046: joint8
+    100048: joint13
+    100050: joint12
+    100052: ikHandle5
+    100054: joint3
+    100056: joint2
+    100058: joint11
+    100060: joint10
+    100062: ikHandle1
+    100064: joint31
+    100066: joint1
+    100068: nurbsCircle1
+    100070: joint25
+    100072: joint24
+    100074: joint29 1
+    100076: joint33
+    100078: nurbsCircle3
+    100080: joint17
+    100082: joint22
+    100084: joint21
+    100086: joint20
+    100088: joint19
+    100090: joint18
+    400000: ikHandle6
+    400002: //RootNode
+    400004: joint32
+    400006: nurbsCircle2
+    400008: ikHandle2
+    400010: polySurface40
+    400012: joint23
+    400014: joint16
+    400016: ikHandle3
+    400018: joint30 1
+    400020: joint30
+    400022: joint29
+    400024: joint15
+    400026: joint14
+    400028: joint27
+    400030: joint26
+    400032: ikHandle4
+    400034: joint31 1
+    400036: joint7
+    400038: joint6
+    400040: joint9
+    400042: joint4
+    400044: joint5
+    400046: joint8
+    400048: joint13
+    400050: joint12
+    400052: ikHandle5
+    400054: joint3
+    400056: joint2
+    400058: joint11
+    400060: joint10
+    400062: ikHandle1
+    400064: joint31
+    400066: joint1
+    400068: nurbsCircle1
+    400070: joint25
+    400072: joint24
+    400074: joint29 1
+    400076: joint33
+    400078: nurbsCircle3
+    400080: joint17
+    400082: joint22
+    400084: joint21
+    400086: joint20
+    400088: joint19
+    400090: joint18
+    4300000: polySurface40
+    7400000: SD_item_store_NPC_03
+    7400002: SD_item_store_NPC@talk
+    7400004: SD_item_store_NPC_02
+    11100000: //RootNode
+    13700000: joint1
+    13700002: polySurface40
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.08000004
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
